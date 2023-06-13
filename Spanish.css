@@ -20,32 +20,41 @@
     margin-top: 20px;
 }
 
+.text2{
+    padding-right: 70px;
+    margin-top: 10px;
+    color: #323238;
+}
+
 .circle1{
-    width: 33.16px;
-    height: 33.16px;
+    width: 20px;
+    height: 20px;
     border-radius: 59.21px;
     background-color: #1D8841;
     border-color: #1D8841;
+    margin-top: 10px;
 }
 
 .circle2{
-    width: 33.16px;
-    height: 33.16px;
+    width: 20px;
+    height: 20px;
     border-radius: 59.21px;
     background-color: #633BBC;
     border-color: #633BBC;
     text-align:center;
     color: white;
+    margin-top: 10px;
 }
 
 .circle3{
-    width: 33.16px;
-    height: 33.16px;
+    width: 20px;
+    height: 20px;
     border-radius: 59.21px;
     background-color: #E1E1E6;
     border-color: #E1E1E6;
     text-align: center;
     color: #8D8D99;
+    margin-top: 10px;
 }
 
 hr{
